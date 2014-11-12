@@ -10,4 +10,4 @@ add two
 
 add three
 
-add merge
+add a merge
